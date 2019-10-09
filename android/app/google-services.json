@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "609959402282",
+    "firebase_url": "https://gdg-araquara.firebaseio.com",
+    "project_id": "gdg-araquara",
+    "storage_bucket": "gdg-araquara.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:609959402282:android:30a14559c67fac10dddc53",
+        "android_client_info": {
+          "package_name": "com.gdg"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "609959402282-bpskq44do7lr9djql33cdrblhi13amrr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1m7X2uCTfqH5Cg3AsJcae_N6gwSLkZow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "609959402282-bpskq44do7lr9djql33cdrblhi13amrr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

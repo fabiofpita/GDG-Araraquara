@@ -1,4 +1,4 @@
-package com.example.gdg
+package com.gdg
 
 import android.os.Bundle
 
